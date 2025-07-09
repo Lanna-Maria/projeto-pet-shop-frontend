@@ -1,5 +1,5 @@
 import React from 'react';
-import './Contatos.css'; // Lembre-se de criar esse CSS
+import './Contatos.css'; 
 import {
   FaFacebookF,
   FaInstagram,

@@ -13,10 +13,10 @@ function Produtos() {
       imagem:
         'https://www.petz.com.br/blog/wp-content/uploads/2019/06/racao-canina.jpg',
     },
+    // Adicione mais produtos aqui se desejar
   ];
 
   const [termoPesquisa, setTermoPesquisa] = useState('');
-
   const [ordenacao, setOrdenacao] = useState('nenhum');
 
   const produtosExibidos = useMemo(() => {
@@ -38,6 +38,7 @@ function Produtos() {
     }
     return produtosFiltrados;
   }, [todosOsProdutos, termoPesquisa, ordenacao]);
+
   return (
     <div className="app-container">
       <section className="sectionprodutos">
@@ -67,13 +68,10 @@ function Produtos() {
 
         <div className="produtos-lista">
           {produtosExibidos.length > 0 ? (
-            produtosExibidos.map((produto) => (
+            produtosExibidos.map(produto => (
               <Produto
                 key={produto.id}
-                titulo={produto.titulo}
-                preco={produto.preco}
-                descricao={produto.descricao}
-                imagem={produto.imagem}
+                produto={produto}
               />
             ))
           ) : (
@@ -84,26 +82,8 @@ function Produtos() {
         </div>
       </section>
 
-      <section id="main">
-        <div id="carrinho-container">
-          <h3>Carrinho de Compras 🛒</h3>
-          <ul id="lista-carrinho">
-            <li>
-              Exemplo de Item - R$ 10,00{' '}
-              <button className="remover-item">Remover</button>
-            </li>
-            <li>
-              Outro Item - R$ 25,50{' '}
-              <button className="remover-item">Remover</button>
-            </li>
-          </ul>
-          <p>
-            <strong>Total:</strong> R$ <span id="total-carrinho">35.50</span>
-          </p>
-          <p>Mande o total no nosso WhatsApp, e qual o meio de pagamento!</p>
-          <p>(11) 99999-9999</p>
-        </div>
-      </section>
+      {/* A SEÇÃO DO CARRINHO ESTÁTICO FOI REMOVIDA DAQUI */}
+
     </div>
   );
 }
