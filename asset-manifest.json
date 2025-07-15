@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/projeto-pet-shop-frontend/static/css/main.e920c4bf.css",
-    "main.js": "/projeto-pet-shop-frontend/static/js/main.776af2e5.js",
+    "main.css": "/projeto-pet-shop-frontend/static/css/main.d8c0218c.css",
+    "main.js": "/projeto-pet-shop-frontend/static/js/main.61b64633.js",
     "static/js/453.047a2171.chunk.js": "/projeto-pet-shop-frontend/static/js/453.047a2171.chunk.js",
+    "static/media/antes.png": "/projeto-pet-shop-frontend/static/media/antes.7aa675b8b20fdb3c081e.png",
+    "static/media/depois.png": "/projeto-pet-shop-frontend/static/media/depois.ef154d848c883cd6e6b1.png",
+    "static/media/petshop.png": "/projeto-pet-shop-frontend/static/media/petshop.6814bdade335637dacbe.png",
     "static/media/Body.png": "/projeto-pet-shop-frontend/static/media/Body.6f4d61be9af095f5ed58.png",
     "index.html": "/projeto-pet-shop-frontend/index.html",
-    "main.e920c4bf.css.map": "/projeto-pet-shop-frontend/static/css/main.e920c4bf.css.map",
-    "main.776af2e5.js.map": "/projeto-pet-shop-frontend/static/js/main.776af2e5.js.map",
+    "main.d8c0218c.css.map": "/projeto-pet-shop-frontend/static/css/main.d8c0218c.css.map",
+    "main.61b64633.js.map": "/projeto-pet-shop-frontend/static/js/main.61b64633.js.map",
     "453.047a2171.chunk.js.map": "/projeto-pet-shop-frontend/static/js/453.047a2171.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e920c4bf.css",
-    "static/js/main.776af2e5.js"
+    "static/css/main.d8c0218c.css",
+    "static/js/main.61b64633.js"
   ]
 }
