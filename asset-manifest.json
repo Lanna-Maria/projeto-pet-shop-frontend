@@ -1,19 +1,24 @@
 {
   "files": {
-    "main.css": "/projeto-pet-shop-frontend/static/css/main.2f07db21.css",
-    "main.js": "/projeto-pet-shop-frontend/static/js/main.38a1c4a9.js",
+    "main.css": "/projeto-pet-shop-frontend/static/css/main.3c23a294.css",
+    "main.js": "/projeto-pet-shop-frontend/static/js/main.21b77cb3.js",
     "static/js/453.047a2171.chunk.js": "/projeto-pet-shop-frontend/static/js/453.047a2171.chunk.js",
     "static/media/antes.png": "/projeto-pet-shop-frontend/static/media/antes.7aa675b8b20fdb3c081e.png",
     "static/media/depois.png": "/projeto-pet-shop-frontend/static/media/depois.ef154d848c883cd6e6b1.png",
     "static/media/petshop.png": "/projeto-pet-shop-frontend/static/media/petshop.6814bdade335637dacbe.png",
     "static/media/Body.png": "/projeto-pet-shop-frontend/static/media/Body.6f4d61be9af095f5ed58.png",
+    "static/media/gato.webp": "/projeto-pet-shop-frontend/static/media/gato.802f2c18dbdd1f11860c.webp",
+    "static/media/pet.jpg": "/projeto-pet-shop-frontend/static/media/pet.fef17b430101be522509.jpg",
+    "static/media/racao.png": "/projeto-pet-shop-frontend/static/media/racao.5ccaffd693da683cf064.png",
+    "static/media/higienepet.png": "/projeto-pet-shop-frontend/static/media/higienepet.823969434294ffc04b75.png",
+    "static/media/acessorio.jpeg": "/projeto-pet-shop-frontend/static/media/acessorio.80446ad03c0a154c795b.jpeg",
     "index.html": "/projeto-pet-shop-frontend/index.html",
-    "main.2f07db21.css.map": "/projeto-pet-shop-frontend/static/css/main.2f07db21.css.map",
-    "main.38a1c4a9.js.map": "/projeto-pet-shop-frontend/static/js/main.38a1c4a9.js.map",
+    "main.3c23a294.css.map": "/projeto-pet-shop-frontend/static/css/main.3c23a294.css.map",
+    "main.21b77cb3.js.map": "/projeto-pet-shop-frontend/static/js/main.21b77cb3.js.map",
     "453.047a2171.chunk.js.map": "/projeto-pet-shop-frontend/static/js/453.047a2171.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f07db21.css",
-    "static/js/main.38a1c4a9.js"
+    "static/css/main.3c23a294.css",
+    "static/js/main.21b77cb3.js"
   ]
 }
