@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/projeto-pet-shop-frontend/static/css/main.f0b219b7.css",
-    "main.js": "/projeto-pet-shop-frontend/static/js/main.8e905712.js",
+    "main.css": "/projeto-pet-shop-frontend/static/css/main.6c15b7a4.css",
+    "main.js": "/projeto-pet-shop-frontend/static/js/main.c0687a7e.js",
     "static/js/453.047a2171.chunk.js": "/projeto-pet-shop-frontend/static/js/453.047a2171.chunk.js",
     "static/media/antes.png": "/projeto-pet-shop-frontend/static/media/antes.7aa675b8b20fdb3c081e.png",
     "static/media/depois.png": "/projeto-pet-shop-frontend/static/media/depois.ef154d848c883cd6e6b1.png",
@@ -13,12 +13,12 @@
     "static/media/higienepet.png": "/projeto-pet-shop-frontend/static/media/higienepet.823969434294ffc04b75.png",
     "static/media/acessorio.jpeg": "/projeto-pet-shop-frontend/static/media/acessorio.80446ad03c0a154c795b.jpeg",
     "index.html": "/projeto-pet-shop-frontend/index.html",
-    "main.f0b219b7.css.map": "/projeto-pet-shop-frontend/static/css/main.f0b219b7.css.map",
-    "main.8e905712.js.map": "/projeto-pet-shop-frontend/static/js/main.8e905712.js.map",
+    "main.6c15b7a4.css.map": "/projeto-pet-shop-frontend/static/css/main.6c15b7a4.css.map",
+    "main.c0687a7e.js.map": "/projeto-pet-shop-frontend/static/js/main.c0687a7e.js.map",
     "453.047a2171.chunk.js.map": "/projeto-pet-shop-frontend/static/js/453.047a2171.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0b219b7.css",
-    "static/js/main.8e905712.js"
+    "static/css/main.6c15b7a4.css",
+    "static/js/main.c0687a7e.js"
   ]
 }
