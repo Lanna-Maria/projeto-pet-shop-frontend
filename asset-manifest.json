@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/projeto-pet-shop-frontend/inicio/static/css/main.3cb2b84f.css",
-    "main.js": "/projeto-pet-shop-frontend/inicio/static/js/main.287891eb.js",
-    "static/js/453.047a2171.chunk.js": "/projeto-pet-shop-frontend/inicio/static/js/453.047a2171.chunk.js",
-    "static/media/antes.png": "/projeto-pet-shop-frontend/inicio/static/media/antes.7aa675b8b20fdb3c081e.png",
-    "static/media/depois.png": "/projeto-pet-shop-frontend/inicio/static/media/depois.ef154d848c883cd6e6b1.png",
-    "static/media/petshop.png": "/projeto-pet-shop-frontend/inicio/static/media/petshop.6814bdade335637dacbe.png",
-    "static/media/Body.png": "/projeto-pet-shop-frontend/inicio/static/media/Body.6f4d61be9af095f5ed58.png",
-    "static/media/gato.webp": "/projeto-pet-shop-frontend/inicio/static/media/gato.802f2c18dbdd1f11860c.webp",
-    "static/media/pet.jpg": "/projeto-pet-shop-frontend/inicio/static/media/pet.fef17b430101be522509.jpg",
-    "static/media/racao.png": "/projeto-pet-shop-frontend/inicio/static/media/racao.5ccaffd693da683cf064.png",
-    "static/media/higienepet.png": "/projeto-pet-shop-frontend/inicio/static/media/higienepet.823969434294ffc04b75.png",
-    "static/media/acessorio.jpeg": "/projeto-pet-shop-frontend/inicio/static/media/acessorio.80446ad03c0a154c795b.jpeg",
-    "index.html": "/projeto-pet-shop-frontend/inicio/index.html",
-    "main.3cb2b84f.css.map": "/projeto-pet-shop-frontend/inicio/static/css/main.3cb2b84f.css.map",
-    "main.287891eb.js.map": "/projeto-pet-shop-frontend/inicio/static/js/main.287891eb.js.map",
-    "453.047a2171.chunk.js.map": "/projeto-pet-shop-frontend/inicio/static/js/453.047a2171.chunk.js.map"
+    "main.css": "/projeto-pet-shop-frontend/static/css/main.f0b219b7.css",
+    "main.js": "/projeto-pet-shop-frontend/static/js/main.ff4191ab.js",
+    "static/js/453.047a2171.chunk.js": "/projeto-pet-shop-frontend/static/js/453.047a2171.chunk.js",
+    "static/media/antes.png": "/projeto-pet-shop-frontend/static/media/antes.7aa675b8b20fdb3c081e.png",
+    "static/media/depois.png": "/projeto-pet-shop-frontend/static/media/depois.ef154d848c883cd6e6b1.png",
+    "static/media/petshop.png": "/projeto-pet-shop-frontend/static/media/petshop.6814bdade335637dacbe.png",
+    "static/media/Body.png": "/projeto-pet-shop-frontend/static/media/Body.6f4d61be9af095f5ed58.png",
+    "static/media/gato.webp": "/projeto-pet-shop-frontend/static/media/gato.802f2c18dbdd1f11860c.webp",
+    "static/media/pet.jpg": "/projeto-pet-shop-frontend/static/media/pet.fef17b430101be522509.jpg",
+    "static/media/racao.png": "/projeto-pet-shop-frontend/static/media/racao.5ccaffd693da683cf064.png",
+    "static/media/higienepet.png": "/projeto-pet-shop-frontend/static/media/higienepet.823969434294ffc04b75.png",
+    "static/media/acessorio.jpeg": "/projeto-pet-shop-frontend/static/media/acessorio.80446ad03c0a154c795b.jpeg",
+    "index.html": "/projeto-pet-shop-frontend/index.html",
+    "main.f0b219b7.css.map": "/projeto-pet-shop-frontend/static/css/main.f0b219b7.css.map",
+    "main.ff4191ab.js.map": "/projeto-pet-shop-frontend/static/js/main.ff4191ab.js.map",
+    "453.047a2171.chunk.js.map": "/projeto-pet-shop-frontend/static/js/453.047a2171.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3cb2b84f.css",
-    "static/js/main.287891eb.js"
+    "static/css/main.f0b219b7.css",
+    "static/js/main.ff4191ab.js"
   ]
 }
